@@ -1,0 +1,7 @@
+#body{
+    background-image:url("https://blog.openreplay.com/images/web-development-best-practices/images/hero.png");
+    background-size: 150px  150px;
+    background-repeat:no-repeat;
+    background-position:center;
+    height:100vh;
+}
